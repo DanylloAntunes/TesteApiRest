@@ -1,0 +1,15 @@
+D:\Programacao\testeboticario\test-c\TesteVagaBoticario\TesteVagaBoticario.ServicoMapeador\obj\Debug\netstandard2.1\TesteVagaBoticario.ServicoMapeador.csproj.AssemblyReference.cache
+D:\Programacao\testeboticario\test-c\TesteVagaBoticario\TesteVagaBoticario.ServicoMapeador\obj\Debug\netstandard2.1\TesteVagaBoticario.ServicoMapeador.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacao\testeboticario\test-c\TesteVagaBoticario\TesteVagaBoticario.ServicoMapeador\obj\Debug\netstandard2.1\TesteVagaBoticario.ServicoMapeador.AssemblyInfoInputs.cache
+D:\Programacao\testeboticario\test-c\TesteVagaBoticario\TesteVagaBoticario.ServicoMapeador\obj\Debug\netstandard2.1\TesteVagaBoticario.ServicoMapeador.AssemblyInfo.cs
+D:\Programacao\testeboticario\test-c\TesteVagaBoticario\TesteVagaBoticario.ServicoMapeador\obj\Debug\netstandard2.1\TesteVagaBoticario.ServicoMapeador.csproj.CoreCompileInputs.cache
+D:\Programacao\testeboticario\test-c\TesteVagaBoticario\TesteVagaBoticario.ServicoMapeador\bin\Debug\netstandard2.1\TesteVagaBoticario.ServicoMapeador.deps.json
+D:\Programacao\testeboticario\test-c\TesteVagaBoticario\TesteVagaBoticario.ServicoMapeador\bin\Debug\netstandard2.1\TesteVagaBoticario.ServicoMapeador.dll
+D:\Programacao\testeboticario\test-c\TesteVagaBoticario\TesteVagaBoticario.ServicoMapeador\bin\Debug\netstandard2.1\TesteVagaBoticario.ServicoMapeador.pdb
+D:\Programacao\testeboticario\test-c\TesteVagaBoticario\TesteVagaBoticario.ServicoMapeador\bin\Debug\netstandard2.1\TesteVagaBoticario.Interfaces.dll
+D:\Programacao\testeboticario\test-c\TesteVagaBoticario\TesteVagaBoticario.ServicoMapeador\bin\Debug\netstandard2.1\TesteVagaBoticario.Negocio.dll
+D:\Programacao\testeboticario\test-c\TesteVagaBoticario\TesteVagaBoticario.ServicoMapeador\bin\Debug\netstandard2.1\TesteVagaBoticario.Interfaces.pdb
+D:\Programacao\testeboticario\test-c\TesteVagaBoticario\TesteVagaBoticario.ServicoMapeador\bin\Debug\netstandard2.1\TesteVagaBoticario.Negocio.pdb
+D:\Programacao\testeboticario\test-c\TesteVagaBoticario\TesteVagaBoticario.ServicoMapeador\obj\Debug\netstandard2.1\TesteVagaBoticario.ServicoMapeador.csproj.CopyComplete
+D:\Programacao\testeboticario\test-c\TesteVagaBoticario\TesteVagaBoticario.ServicoMapeador\obj\Debug\netstandard2.1\TesteVagaBoticario.ServicoMapeador.dll
+D:\Programacao\testeboticario\test-c\TesteVagaBoticario\TesteVagaBoticario.ServicoMapeador\obj\Debug\netstandard2.1\TesteVagaBoticario.ServicoMapeador.pdb

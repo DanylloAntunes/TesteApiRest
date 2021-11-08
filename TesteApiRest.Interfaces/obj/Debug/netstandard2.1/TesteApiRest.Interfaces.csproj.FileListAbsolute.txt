@@ -1,0 +1,13 @@
+D:\Programacao\testeboticario\test-c1\TesteApiRest\TesteApiRest.Interfaces\obj\Debug\netstandard2.1\TesteApiRest.Interfaces.csproj.AssemblyReference.cache
+D:\Programacao\testeboticario\test-c1\TesteApiRest\TesteApiRest.Interfaces\obj\Debug\netstandard2.1\TesteApiRest.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacao\testeboticario\test-c1\TesteApiRest\TesteApiRest.Interfaces\obj\Debug\netstandard2.1\TesteApiRest.Interfaces.AssemblyInfoInputs.cache
+D:\Programacao\testeboticario\test-c1\TesteApiRest\TesteApiRest.Interfaces\obj\Debug\netstandard2.1\TesteApiRest.Interfaces.AssemblyInfo.cs
+D:\Programacao\testeboticario\test-c1\TesteApiRest\TesteApiRest.Interfaces\obj\Debug\netstandard2.1\TesteApiRest.Interfaces.csproj.CoreCompileInputs.cache
+D:\Programacao\testeboticario\test-c1\TesteApiRest\TesteApiRest.Interfaces\bin\Debug\netstandard2.1\TesteApiRest.Interfaces.deps.json
+D:\Programacao\testeboticario\test-c1\TesteApiRest\TesteApiRest.Interfaces\bin\Debug\netstandard2.1\TesteApiRest.Interfaces.dll
+D:\Programacao\testeboticario\test-c1\TesteApiRest\TesteApiRest.Interfaces\bin\Debug\netstandard2.1\TesteApiRest.Interfaces.pdb
+D:\Programacao\testeboticario\test-c1\TesteApiRest\TesteApiRest.Interfaces\bin\Debug\netstandard2.1\TesteApiRest.Negocio.dll
+D:\Programacao\testeboticario\test-c1\TesteApiRest\TesteApiRest.Interfaces\bin\Debug\netstandard2.1\TesteApiRest.Negocio.pdb
+D:\Programacao\testeboticario\test-c1\TesteApiRest\TesteApiRest.Interfaces\obj\Debug\netstandard2.1\TesteApiRest.Interfaces.csproj.CopyComplete
+D:\Programacao\testeboticario\test-c1\TesteApiRest\TesteApiRest.Interfaces\obj\Debug\netstandard2.1\TesteApiRest.Interfaces.dll
+D:\Programacao\testeboticario\test-c1\TesteApiRest\TesteApiRest.Interfaces\obj\Debug\netstandard2.1\TesteApiRest.Interfaces.pdb

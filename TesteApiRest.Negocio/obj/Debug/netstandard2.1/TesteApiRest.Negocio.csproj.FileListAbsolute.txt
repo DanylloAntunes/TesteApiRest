@@ -1,0 +1,10 @@
+D:\Programacao\testeboticario\test-c1\TesteApiRest\TesteApiRest.Negocio\obj\Debug\netstandard2.1\TesteApiRest.Negocio.csproj.AssemblyReference.cache
+D:\Programacao\testeboticario\test-c1\TesteApiRest\TesteApiRest.Negocio\obj\Debug\netstandard2.1\TesteApiRest.Negocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacao\testeboticario\test-c1\TesteApiRest\TesteApiRest.Negocio\obj\Debug\netstandard2.1\TesteApiRest.Negocio.AssemblyInfoInputs.cache
+D:\Programacao\testeboticario\test-c1\TesteApiRest\TesteApiRest.Negocio\obj\Debug\netstandard2.1\TesteApiRest.Negocio.AssemblyInfo.cs
+D:\Programacao\testeboticario\test-c1\TesteApiRest\TesteApiRest.Negocio\obj\Debug\netstandard2.1\TesteApiRest.Negocio.csproj.CoreCompileInputs.cache
+D:\Programacao\testeboticario\test-c1\TesteApiRest\TesteApiRest.Negocio\bin\Debug\netstandard2.1\TesteApiRest.Negocio.deps.json
+D:\Programacao\testeboticario\test-c1\TesteApiRest\TesteApiRest.Negocio\bin\Debug\netstandard2.1\TesteApiRest.Negocio.dll
+D:\Programacao\testeboticario\test-c1\TesteApiRest\TesteApiRest.Negocio\bin\Debug\netstandard2.1\TesteApiRest.Negocio.pdb
+D:\Programacao\testeboticario\test-c1\TesteApiRest\TesteApiRest.Negocio\obj\Debug\netstandard2.1\TesteApiRest.Negocio.dll
+D:\Programacao\testeboticario\test-c1\TesteApiRest\TesteApiRest.Negocio\obj\Debug\netstandard2.1\TesteApiRest.Negocio.pdb
